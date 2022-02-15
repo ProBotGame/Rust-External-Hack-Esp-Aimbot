@@ -6,9 +6,9 @@
 I will support this product for 2 months.In addition to the game updates, I will update the dates with other additional updates below.
 **WHEN YOU BUILD IT, YOU WILL NEED A DLL INJECTOR. YOU CAN FIND THE INJECTOR ON MY PROFILE. I SHARED IT.**
 --------------------------------------------------------------------------------------
-**Updated Time : 01/13/2022**
+**Updated Time : 02/13/2022**
 %
-**Next Update : 01/16/2022**
+**Next Update : 02/16/2022**
 
 Current Status Undetected
 
@@ -16,12 +16,6 @@ Current Status Undetected
 ![image](https://user-images.githubusercontent.com/97662953/149358591-06654fa7-c94c-4cd7-bd13-14bde73a0864.png)
 
 
-## 🌌 Setup
-- Download
-- Fix the entire cheat
-- Build in Release | x86
-- Run when Rust is open
-- Go to hell
 
 ### 📝 Todo
 
