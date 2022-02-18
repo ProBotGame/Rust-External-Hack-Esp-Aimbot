@@ -16,7 +16,7 @@ Current Status Undetected
 ![image](https://user-images.githubusercontent.com/97662953/149358591-06654fa7-c94c-4cd7-bd13-14bde73a0864.png)
 
 
-
+.
 ### 📝 Todo
 
 - [x] Add Aimbot
